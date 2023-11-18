@@ -1,6 +1,5 @@
 # ansible-config-mgt
 
-test
 
 
 
